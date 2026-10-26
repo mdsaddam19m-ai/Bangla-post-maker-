@@ -1,2 +1,2 @@
-# Bangla-post-maker-
+# bangla-creator-studio
 বাংলা ভিডিও স্ক্রিপ্ট, ক্যাপশন ও হ্যাশট্যাগ তৈরির ওয়েবসাইট
